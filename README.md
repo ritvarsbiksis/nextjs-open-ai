@@ -1,4 +1,4 @@
-# NEXT.js monorepo starter
+# OpenAI image generator
 
 - React
 - Typescript
@@ -8,4 +8,4 @@
 - Cypress
 - Vitest
 - Module CSS
-
+- React Query
